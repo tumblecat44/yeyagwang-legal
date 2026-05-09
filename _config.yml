@@ -1,0 +1,11 @@
+title: 예야광 법무 페이지
+description: 예야광 앱의 개인정보처리방침 및 정책 문서
+theme: jekyll-theme-cayman
+lang: ko-KR
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - "*.md"
